@@ -1,94 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="880eee07-f4cd-49ee-a501-e14708ef08e5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/PracticaObligatoria1.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Videos/video1.wmv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Videos/video2.wmv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haar/coches.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haar/matriculas.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test23.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test24.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test25.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test26.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test27.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test28.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test29.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test30.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test31.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test32.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test33.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_23.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_24.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_25.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_26.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_27.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_28.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_29.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_30.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_31.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_32.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_33.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_34.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_35.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_36.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_37.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_38.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_39.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_40.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_41.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_42.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_43.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_44.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_45.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_46.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_47.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_48.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_9.jpg" />
-    </list>
+    <list default="true" id="880eee07-f4cd-49ee-a501-e14708ef08e5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,25 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="p1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frontal_2.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/training/frontal_2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -188,6 +83,16 @@
               <item name="Practica1Va" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practica1Va" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practica1Va" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practica1Va" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practica1Va" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practica1Va" type="462c0819:PsiDirectoryNode" />
+              <item name="Videos" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -233,22 +138,22 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -277,6 +182,81 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/training/frontal_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/frontal_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/frontal_11.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/frontal_17.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/frontal_26.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test15.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test19.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test16.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test14.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test33.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test31.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test27.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test23.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
