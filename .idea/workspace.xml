@@ -2,92 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="880eee07-f4cd-49ee-a501-e14708ef08e5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/PracticaObligatoria1.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Videos/video1.wmv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Videos/video2.wmv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haar/coches.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/haar/matriculas.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test23.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test24.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test25.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test26.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test27.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test28.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test29.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test30.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test31.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test32.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test33.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testing/test9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_23.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_24.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_25.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_26.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_27.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_28.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_29.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_30.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_31.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_32.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_33.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_34.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_35.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_36.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_37.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_38.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_39.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_40.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_41.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_42.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_43.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_44.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_45.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_46.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_47.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_48.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/frontal_9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/deteccion_orb.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/deteccion_video.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/Practica1Va.iml" afterPath="$PROJECT_DIR$/.idea/Practica1Va.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/p1.py" afterPath="$PROJECT_DIR$/deteccion_haar.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,18 +17,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="p1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p1.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="deteccion_orb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deteccion_orb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontal_2.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frontal_2.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/training/frontal_2.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -134,9 +54,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -180,24 +100,28 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Practica1Va" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practica1Va" type="462c0819:PsiDirectoryNode" />
+              <item name="VA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VA" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge_000\Desktop\VA" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -213,6 +137,31 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="deteccion_orb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Practica1Va" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deteccion_orb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.deteccion_orb" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -231,24 +180,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -260,15 +209,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/haar/coches.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15396">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1.py">
+    <entry file="file://$PROJECT_DIR$/deteccion_orb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -279,6 +220,33 @@
     <entry file="file://$PROJECT_DIR$/training/frontal_2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1.py" />
+    <entry file="file://$PROJECT_DIR$/training/frontal_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haar/coches.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15396">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1.py" />
+    <entry file="file://$PROJECT_DIR$/training/frontal_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deteccion_orb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
