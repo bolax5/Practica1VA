@@ -26,7 +26,7 @@ for x in range (49):
     I = cv2.imread("./training/frontal_" + str(x) + ".jpg", 0)
     matrix.append(I)
 
-orb = cv2.ORB_create(nfeatures=500, nlevels=5)
+orb = cv2.ORB_create(nfeatures=500, nlevels=6)
 
 FLANN_INDEX_LSH = 6
 index_params= dict(algorithm = FLANN_INDEX_LSH,
@@ -51,11 +51,10 @@ for x in range (1,34):
 
     pts2 = orb.detect(imgTest,None)
     pts2, des2 = orb.compute(imgTest, pts2)
-
     votaciones = np.zeros((np.int(imgTest.shape[0]/10), np.int(imgTest.shape[1]/10)), dtype=int)
     zipped = zip(des2, pts2)
     for (d, kp) in zipped:
-        lp = flann.knnMatch(d, k=2)
+        lp = flann.knnMatch(d, k=6)
         for list in lp:
             for n_kp in list:
                 vector = votefunc((225, 110), keyPoints[n_kp.imgIdx][n_kp.trainIdx], kp)
@@ -67,10 +66,10 @@ for x in range (1,34):
     coords = np.unravel_index(votaciones.argmax(), votaciones.shape)
     for i in range(imgTest.shape[0]):
         for j in range(imgTest.shape[1]):
-            imgTest[coords[0]*10][j] = 0
-            imgTest[coords[0]*10 +10][j] = 0
+            imgTest[coords[1]*10][j] = 0
+            imgTest[coords[1]*10 - 10][j] = 0
             imgTest[i][coords[0]*10] = 0
-            imgTest[i][coords[0]*10 +10] = 0
+            imgTest[i][coords[0]*10 - 10] = 0
     cv2.imshow(str(x), imgTest)
     cv2.waitKey()
 print(votaciones)
