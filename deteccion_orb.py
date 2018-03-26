@@ -21,10 +21,27 @@ def votefunc(centro, kparecido, kact):
     vector = (np.int(vector[0]), np.int(vector[1]))
     return vector
 
+def readTrainingImages():
+    for x in range(49):
+        I = cv2.imread("./training/frontal_" + str(x) + ".jpg", 0)
+        matrix.append(I)
 
-for x in range (49):
-    I = cv2.imread("./training/frontal_" + str(x) + ".jpg", 0)
-    matrix.append(I)
+def detectAndComputeTrainingKeypoints():
+    for img in range(48):
+        pts1 = orb.detect(matrix[img], None)
+        pts1, des1 = orb.compute(matrix[img], pts1)
+        descriptores.append(des1)
+        keyPoints.append(pts1)
+
+def drawLocation():
+    for i in range(imgTest.shape[0]):
+        for j in range(imgTest.shape[1]):
+            imgTest[coords[1]*10][j] = 0
+            imgTest[coords[1]*10 - 10][j] = 0
+            imgTest[i][coords[0]*10] = 0
+            imgTest[i][coords[0]*10 - 10] = 0
+
+readTrainingImages()
 
 orb = cv2.ORB_create(nfeatures=500, nlevels=6)
 
@@ -38,11 +55,8 @@ flann = cv2.FlannBasedMatcher(index_params,search_params)
 
 keyPoints = []
 descriptores = []
-for img in range (48):
-    pts1 = orb.detect(matrix[img], None)
-    pts1, des1 = orb.compute(matrix[img],pts1)
-    descriptores.append(des1)
-    keyPoints.append(pts1)
+
+detectAndComputeTrainingKeypoints()
 
 flann.add(descriptores)
 
@@ -64,12 +78,7 @@ for x in range (1,34):
 
                     votaciones[vector[0]][vector[1]] += 1
     coords = np.unravel_index(votaciones.argmax(), votaciones.shape)
-    for i in range(imgTest.shape[0]):
-        for j in range(imgTest.shape[1]):
-            imgTest[coords[1]*10][j] = 0
-            imgTest[coords[1]*10 - 10][j] = 0
-            imgTest[i][coords[0]*10] = 0
-            imgTest[i][coords[0]*10 - 10] = 0
+    drawLocation()
     cv2.imshow(str(x), imgTest)
     cv2.waitKey()
 print(votaciones)
