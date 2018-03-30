@@ -2,7 +2,7 @@ import cv2
 
 frontales = cv2.CascadeClassifier('./haar/coches.xml')
 matriculas = cv2.CascadeClassifier('./haar/matriculas.xml')
-video1 = cv2.VideoCapture('./Videos/video2.wmv')
+video1 = cv2.VideoCapture('./Videos/video1.wmv')
 while (video1.isOpened()):
 
     foo, IC = video1.read()

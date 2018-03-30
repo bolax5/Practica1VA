@@ -1,9 +1,11 @@
 import cv2
 import numpy as np
 import math as mt
+
 matrix= []
 centros = []
-
+keyPoints = []
+descriptores = []
 
 
 def votefunc(centro, kparecido, kact):
@@ -17,16 +19,28 @@ def votefunc(centro, kparecido, kact):
     angulo = angulo + (kact.angle - kparecido.angle)
     modulo = mt.sqrt(vector[0]*vector[0] + vector[1]*vector[1])
     vector = (modulo * mt.cos(angulo) + kact.pt[0], modulo * mt.sin(angulo) + kact.pt[1])
-
     vector = (np.int(vector[0]), np.int(vector[1]))
     return vector
 
 
-for x in range (49):
-    I = cv2.imread("./training/frontal_" + str(x) + ".jpg", 0)
-    matrix.append(I)
+def imgloader(path, number):
+
+    "Coge 'number' de imagenes de 'path' y devuelve un array con ellas"
+    tempMatrix = []
+    for x in range(number):
+        I = cv2.imread(path + str(x) + ".jpg", 0)
+        tempMatrix.append(I)
+    return tempMatrix
+
 
 orb = cv2.ORB_create(nfeatures=500, nlevels=6)
+for x in range (49):
+    I = cv2.imread("./training/frontal_" + str(x) + ".jpg", 0)
+    pts1 = orb.detect(I, None)
+    pts1, des1 = orb.compute(I, pts1)
+    descriptores.append(des1)
+    keyPoints.append(pts1)
+    matrix.append(I)
 
 FLANN_INDEX_LSH = 6
 index_params= dict(algorithm = FLANN_INDEX_LSH,
@@ -35,20 +49,14 @@ index_params= dict(algorithm = FLANN_INDEX_LSH,
                      multi_probe_level = 1) #2
 search_params = dict(checks=50)
 flann = cv2.FlannBasedMatcher(index_params,search_params)
-
-keyPoints = []
-descriptores = []
-for img in range (48):
-    pts1 = orb.detect(matrix[img], None)
-    pts1, des1 = orb.compute(matrix[img],pts1)
-    descriptores.append(des1)
-    keyPoints.append(pts1)
-
 flann.add(descriptores)
+
+
+
+
 
 for x in range (1,34):
     imgTest = cv2.imread("./testing/test" + str(x) + ".jpg", 0)
-
     pts2 = orb.detect(imgTest,None)
     pts2, des2 = orb.compute(imgTest, pts2)
     votaciones = np.zeros((np.int(imgTest.shape[0]/10), np.int(imgTest.shape[1]/10)), dtype=int)
@@ -60,16 +68,14 @@ for x in range (1,34):
                 vector = votefunc((225, 110), keyPoints[n_kp.imgIdx][n_kp.trainIdx], kp)
                 vector = (np.int(vector[0] / 10), np.int(vector[1] / 10))
                 if (vector[0] >= 0) & (vector[1] >= 0) & (vector[0] < (imgTest.shape[0] / 10 -1)) & (vector[1] < (imgTest.shape[1] / 10 -1)):
-                    # if vector[0] >= 0 & vector[1] >= 0 & vector[0] < np.int(imgTest.shape[0]/10) & vector[1] < np.int(imgTest.shape[1]/10):
-
                     votaciones[vector[0]][vector[1]] += 1
     coords = np.unravel_index(votaciones.argmax(), votaciones.shape)
     for i in range(imgTest.shape[0]):
         for j in range(imgTest.shape[1]):
-            imgTest[coords[1]*10][j] = 0
-            imgTest[coords[1]*10 - 10][j] = 0
-            imgTest[i][coords[0]*10] = 0
-            imgTest[i][coords[0]*10 - 10] = 0
+            imgTest[coords[1]*10][j] = 255
+            imgTest[coords[1]*10 - 10][j] = 255
+            imgTest[i][coords[0]*10] = 255
+            imgTest[i][coords[0]*10 - 10] = 255
     cv2.imshow(str(x), imgTest)
     cv2.waitKey()
 print(votaciones)
