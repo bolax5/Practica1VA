@@ -3,7 +3,8 @@ import numpy as np
 import math as mt
 matrix= []
 centros = []
-
+keyPoints = []
+descriptores = []
 
 
 def votefunc(centro, kparecido, kact):
@@ -21,15 +22,13 @@ def votefunc(centro, kparecido, kact):
     vector = (np.int(vector[0]), np.int(vector[1]))
     return vector
 
-def readTrainingImages():
-    for x in range(49):
-        I = cv2.imread("./training/frontal_" + str(x) + ".jpg", 0)
-        matrix.append(I)
+
 
 def detectAndComputeTrainingKeypoints():
-    for img in range(48):
-        pts1 = orb.detect(matrix[img], None)
-        pts1, des1 = orb.compute(matrix[img], pts1)
+    for img in range(49):
+        I = cv2.imread("./training/frontal_" + str(img) + ".jpg", 0)
+        pts1 = orb.detect(I, None)
+        pts1, des1 = orb.compute(I, pts1)
         descriptores.append(des1)
         keyPoints.append(pts1)
 
@@ -41,7 +40,6 @@ def drawLocation():
             imgTest[i][coords[0]*10] = 0
             imgTest[i][coords[0]*10 - 10] = 0
 
-readTrainingImages()
 
 orb = cv2.ORB_create(nfeatures=500, nlevels=6)
 
@@ -52,9 +50,6 @@ index_params= dict(algorithm = FLANN_INDEX_LSH,
                      multi_probe_level = 1) #2
 search_params = dict(checks=50)
 flann = cv2.FlannBasedMatcher(index_params,search_params)
-
-keyPoints = []
-descriptores = []
 
 detectAndComputeTrainingKeypoints()
 
