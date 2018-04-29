@@ -5,7 +5,6 @@ import glob
 from scipy import ndimage
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from matplotlib import pyplot as plt
-from string import maketrans
 class ocr:
     def __init__(self):
         clases = ['0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','ESP','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
@@ -98,7 +97,7 @@ def process(plate):
     concat = reduce((lambda x, y: x+y), plate)
     intab = "OI"
     outtab = "01"
-    trantab = maketrans(intab, outtab)
+    trantab = "".maketrans(intab, outtab)
     processed = concat.translate(trantab)
 
     return processed
